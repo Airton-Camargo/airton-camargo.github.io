@@ -1,0 +1,36 @@
+body{
+    
+    background-image: url(https://static.vecteezy.com/system/resources/previews/008/630/858/non_2x/heart-background-abstract-love-background-valentines-day-background-design-with-hearts-beautifully-arranged-for-the-day-of-love-love-heart-template-vector.jpg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+h1,h4{
+    text-align: center;
+}
+
+h6{
+    font-size: 13px;
+}
+
+h4{
+    font-size: 18px;
+}
+
+p{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+    
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+audio{
+    display: block;
+    margin: auto;
+}
